@@ -1,4 +1,4 @@
-<h3 style='color: gray;margin:0; padding:0;'> [Briefcase.HealthCheck, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]</h3>
+<h3 style='color: gray;margin:0; padding:0;'> [Briefcase.HealthCheck, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null]</h3>
 
 #### Description
 
@@ -109,12 +109,6 @@ string ReturnText()
 <small>[HealthExecution](Documentation/Type/HealthExecution.md)</small>
 
 <small>[HealthExecutionBase](Documentation/Type/HealthExecutionBase.md)</small>
-
-#### Namespace [Briefcase.HealthCheck.Entities](Namespace/Briefcase.HealthCheck.Entities.md);
-
-##### Classes
-
-<small>[Cliente](Documentation/Type/Cliente.md)</small>
 
 #### Namespace [Briefcase.HealthCheck.Entities.Interfaces](Namespace/Briefcase.HealthCheck.Entities.Interfaces.md);
 
