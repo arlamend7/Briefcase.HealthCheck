@@ -110,6 +110,12 @@ string ReturnText()
 
 <small>[HealthExecutionBase](Documentation/Type/HealthExecutionBase.md)</small>
 
+#### Namespace [Briefcase.HealthCheck.Entities](Namespace/Briefcase.HealthCheck.Entities.md);
+
+##### Classes
+
+<small>[Cliente](Documentation/Type/Cliente.md)</small>
+
 #### Namespace [Briefcase.HealthCheck.Entities.Interfaces](Namespace/Briefcase.HealthCheck.Entities.Interfaces.md);
 
 ##### Interfaces
